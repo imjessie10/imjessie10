@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME%20&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#89a5ea&height=300&section=header&text=WELCOME%20&fontSize=80)
 
 <div align="center">
 <h1>Hello, I'm Jessie👋</h1>
