@@ -42,4 +42,4 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=#89a5ea&height=200&section=footer)
