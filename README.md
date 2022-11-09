@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=imjessie10&count_private=true&show_icons=true&theme=vue" alt="Github Stats" height="150px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjessie10&layout=compact&hide=java" alt="Top Languages" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjessie10&layout=compact" alt="Top Languages" height="150px" />
   </div>
 </div>
 
